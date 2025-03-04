@@ -11,8 +11,8 @@ This project uses GPT-4 to transform chat messages into structured search querie
 ## Setup Instructions
 1. **Clone the Repository:**
     ```bash
-    git clone <repo-url>
-    cd <project-folder>
+    git clone git@github.com:Gabya06/JuniorAI.git
+    cd JuniorAI
     ```
 
 2. **Install Dependencies:**
